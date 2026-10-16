@@ -3,3 +3,13 @@ stage 1  pre processing
 stage 2  model
 stage 3  website
 stage 4  deploy 
+
+
+tmdb 5000 movie dataset 
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data?select=tmdb_5000_credits.csv
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data?select=tmdb_5000_movies.csv
+
+upload in jupyter
+
+run .pynb
+
